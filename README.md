@@ -1,1 +1,1 @@
-# Fault Diagnosis with D
+# Fault Diagnosis with Deep Learning Algorithm
