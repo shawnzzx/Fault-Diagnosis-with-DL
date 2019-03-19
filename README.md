@@ -1,1 +1,1 @@
-# Fault-Diagnosis-with-DL
+# Fault Diagnosis with DL
